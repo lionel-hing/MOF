@@ -1,10 +1,10 @@
-# MOF ⏳
+# MOF 
 Meta-Optimized Frames for Efficient Cross-Modal Video Retrieval
 ----
 Repository containing the code, models, data for end-to-end retrieval. 
 
 ----
-### 📝 Dependencies 
+### Dependencies 
 
 Our model was developed and evaluated using the following package dependencies:
 - PyTorch 1.8.0
